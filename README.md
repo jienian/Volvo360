@@ -12,6 +12,6 @@
 ![2dcode-6](https://github.com/jienian/Volvo360/assets/45189482/b5d9e7e9-ba77-4a47-8f8e-c05fac403ea6)
 ![2dcode-7](https://github.com/jienian/Volvo360/assets/45189482/b5b9ec50-5ee3-4f24-ba65-42c4783e38e2)
 
-## 1.2 Video
+## 1.3 Video
 https://github.com/jienian/Volvo360/assets/45189482/9351f597-0d97-445a-8a43-98a70e86f946
 
